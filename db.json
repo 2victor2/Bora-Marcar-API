@@ -2,10 +2,17 @@
   "users": [
     {
       "email": "victor@email.com",
-      "password": "$2a$10$q1c.LUss.bsB1LxFNeqdjuYmeEQMVUE/mKLkCJg9TuxHPxnVcyTT2",
+      "password": "$2a$10$qDCgsSnwtOCMVRK4CtO7hO26d9sgA9JGi19Qfi50a07guVwpJg4.G",
+      "name": "victor",
+      "age": 30,
+      "id": 1
+    },
+    {
+      "email": "victor2@email.com",
+      "password": "$2a$10$JO6F2PCM48WeXVIYPr8KF.lWb6gKIeADaInQc7sa6zkVrl2da/u9O",
       "name": "vito",
       "age": 20,
-      "id": 1
+      "id": 2
     }
   ],
   "events": [
