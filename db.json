@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "email": "victor@email.com",
+      "password": "$2a$10$q1c.LUss.bsB1LxFNeqdjuYmeEQMVUE/mKLkCJg9TuxHPxnVcyTT2",
+      "name": "vito",
+      "age": 20,
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "name": "eventinho",
+      "description": "social da galera na casa do joão",
+      "participants": "5",
+      "itemsList": [
+        {
+          "itemName": "breja",
+          "whoTakes": "vito"
+        },
+        {
+          "itemName": "carne",
+          "whoTakes": "andsor"
+        },
+        {
+          "itemName": "sal grosso",
+          "whoTakes": "joão"
+        }
+      ],
+      "location": "casa do joão",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "eventinho",
+      "description": "social da galera na casa do yorrão",
+      "participants": "5",
+      "itemsList": [
+        {
+          "itemName": "breja",
+          "whoTakes": "vito"
+        },
+        {
+          "itemName": "carne",
+          "whoTakes": "andsor"
+        },
+        {
+          "itemName": "sal grosso",
+          "whoTakes": "joão"
+        }
+      ],
+      "location": "casa do yorrão",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "eventinho",
+      "description": "social da galera na casa do andsor",
+      "participants": "5",
+      "itemsList": [
+        {
+          "itemName": "breja",
+          "whoTakes": "vito"
+        },
+        {
+          "itemName": "carne",
+          "whoTakes": "andsor"
+        },
+        {
+          "itemName": "sal grosso",
+          "whoTakes": "joão"
+        }
+      ],
+      "location": "casa do andsor",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "eventinho",
+      "description": "social da galera na casa do andsor",
+      "participants": "5",
+      "itemsList": [
+        {
+          "itemName": "breja",
+          "whoTakes": "vito"
+        },
+        {
+          "itemName": "carne",
+          "whoTakes": "andsor"
+        },
+        {
+          "itemName": "sal grosso",
+          "whoTakes": "joão"
+        }
+      ],
+      "location": "casa do andsor",
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}
