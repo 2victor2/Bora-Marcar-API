@@ -18,91 +18,47 @@
   "events": [
     {
       "name": "eventinho",
-      "description": "social da galera na casa do joão",
-      "participants": "5",
+      "description": "social da galera na casa do anderson",
+      "participants": 6,
       "itemsList": [
         {
-          "itemName": "breja",
-          "whoTakes": "vito"
+          "itemName": "bebidas",
+          "whoTakes": "victor"
         },
         {
           "itemName": "carne",
-          "whoTakes": "andsor"
+          "whoTakes": "marcelo"
         },
         {
           "itemName": "sal grosso",
-          "whoTakes": "joão"
+          "whoTakes": "johão"
         }
       ],
-      "location": "casa do joão",
+      "location": "casa do anderson",
       "userId": 1,
-      "id": 1
+      "id": 5
     },
     {
-      "name": "eventinho",
-      "description": "social da galera na casa do yorrão",
-      "participants": "5",
+      "name": "outro eventinho",
+      "description": "social da galera na casa do yorran",
+      "participants": 3,
       "itemsList": [
         {
-          "itemName": "breja",
-          "whoTakes": "vito"
+          "itemName": "bebidas",
+          "whoTakes": "victor"
         },
         {
           "itemName": "carne",
-          "whoTakes": "andsor"
+          "whoTakes": "marcelo"
         },
         {
           "itemName": "sal grosso",
-          "whoTakes": "joão"
+          "whoTakes": "johão"
         }
       ],
-      "location": "casa do yorrão",
-      "userId": 1,
-      "id": 2
-    },
-    {
-      "name": "eventinho",
-      "description": "social da galera na casa do andsor",
-      "participants": "5",
-      "itemsList": [
-        {
-          "itemName": "breja",
-          "whoTakes": "vito"
-        },
-        {
-          "itemName": "carne",
-          "whoTakes": "andsor"
-        },
-        {
-          "itemName": "sal grosso",
-          "whoTakes": "joão"
-        }
-      ],
-      "location": "casa do andsor",
-      "userId": 1,
-      "id": 3
-    },
-    {
-      "name": "eventinho",
-      "description": "social da galera na casa do andsor",
-      "participants": "5",
-      "itemsList": [
-        {
-          "itemName": "breja",
-          "whoTakes": "vito"
-        },
-        {
-          "itemName": "carne",
-          "whoTakes": "andsor"
-        },
-        {
-          "itemName": "sal grosso",
-          "whoTakes": "joão"
-        }
-      ],
-      "location": "casa do andsor",
-      "userId": 1,
-      "id": 4
+      "location": "casa do yorran",
+      "userId": 2,
+      "id": 6
     }
   ]
 }
