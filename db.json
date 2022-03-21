@@ -3,62 +3,274 @@
     {
       "email": "victor@email.com",
       "password": "$2a$10$qDCgsSnwtOCMVRK4CtO7hO26d9sgA9JGi19Qfi50a07guVwpJg4.G",
-      "name": "victor",
-      "age": 30,
+      "name": "Victor",
+      "age": 20,
       "id": 1
     },
     {
-      "email": "victor2@email.com",
-      "password": "$2a$10$JO6F2PCM48WeXVIYPr8KF.lWb6gKIeADaInQc7sa6zkVrl2da/u9O",
-      "name": "vito",
+      "email": "andsor@email.com",
+      "password": "$2a$10$5BhWPvsZN8d/bD/X907LvO/U7jtWjHbrCgkyuggtPVfEofXxqJr4e",
+      "name": "Anderson",
       "age": 20,
       "id": 2
+    },
+    {
+      "email": "masterjayjay07@email.com",
+      "password": "$2a$10$pj0dbsr563.mMBhpCiZU8e0oaQyhzxRJ1cN3Hsr17MVhoKmAxkmSm",
+      "name": "Johão",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "email": "marcelo@email.com",
+      "password": "$2a$10$NZTG/RfqBf6mu57H6HqAaOJECUEqODJRT/xhFswOW81PWP1xWeCG.",
+      "name": "Marcelo",
+      "age": 20,
+      "id": 4
+    },
+    {
+      "email": "yorran@email.com",
+      "password": "$2a$10$dLsy4yrvwwD7Rou6Z.6swejhENhB3I6FDF.CeCSSUYkMYNeULWfZC",
+      "name": "Yorran",
+      "age": 20,
+      "id": 5
     }
   ],
   "events": [
     {
-      "name": "eventinho",
-      "description": "social da galera na casa do anderson",
-      "participants": 6,
-      "itemsList": [
+      "name": "Churrasco na laje",
+      "description": "Churras padrão de qualidade na laje do anderson",
+      "guests": [
         {
-          "itemName": "bebidas",
-          "whoTakes": "victor"
+          "name": "Johão",
+          "id": 1
         },
         {
-          "itemName": "carne",
-          "whoTakes": "marcelo"
+          "name": "Marcelo",
+          "id": 2
         },
         {
-          "itemName": "sal grosso",
-          "whoTakes": "johão"
+          "name": "Yorran",
+          "id": 3
         }
       ],
-      "location": "casa do anderson",
+      "itemsList": [
+        {
+          "itemName": "Coca",
+          "quantity": 2,
+          "price": 7.5,
+          "id": 1
+        },
+        {
+          "itemName": "Carvão",
+          "quantity": 2,
+          "price": 12,
+          "id": 2
+        },
+        {
+          "itemName": "Contra-filé",
+          "quantity": 2,
+          "price": 33,
+          "id": 3
+        },
+        {
+          "itemName": "Cerveja",
+          "quantity": 10,
+          "price": 20,
+          "id": 4
+        }
+      ],
+      "location": "Laje da casa do Anderson",
       "userId": 1,
-      "id": 5
+      "id": 1
     },
     {
-      "name": "outro eventinho",
-      "description": "social da galera na casa do yorran",
-      "participants": 3,
-      "itemsList": [
+      "name": "Churrasco na laje",
+      "description": "Churras padrão de qualidade na laje do VR",
+      "guests": [
         {
-          "itemName": "bebidas",
-          "whoTakes": "victor"
+          "name": "Johão",
+          "id": 1
         },
         {
-          "itemName": "carne",
-          "whoTakes": "marcelo"
+          "name": "Marcelo",
+          "id": 2
         },
         {
-          "itemName": "sal grosso",
-          "whoTakes": "johão"
+          "name": "Yorran",
+          "id": 3
         }
       ],
-      "location": "casa do yorran",
+      "itemsList": [
+        {
+          "itemName": "Coca",
+          "quantity": 2,
+          "price": 7.5,
+          "id": 1
+        },
+        {
+          "itemName": "Carvão",
+          "quantity": 2,
+          "price": 12,
+          "id": 2
+        },
+        {
+          "itemName": "Contra-filé",
+          "quantity": 2,
+          "price": 33,
+          "id": 3
+        },
+        {
+          "itemName": "Cerveja",
+          "quantity": 10,
+          "price": 20,
+          "id": 4
+        }
+      ],
+      "location": "Laje da casa do VR",
       "userId": 2,
-      "id": 6
+      "id": 2
+    },
+    {
+      "name": "Churrasco na laje",
+      "description": "Churras padrão de qualidade na laje do VR",
+      "guests": [
+        {
+          "name": "Anderson",
+          "id": 1
+        },
+        {
+          "name": "Marcelo",
+          "id": 2
+        },
+        {
+          "name": "Yorran",
+          "id": 3
+        }
+      ],
+      "itemsList": [
+        {
+          "itemName": "Coca",
+          "quantity": 2,
+          "price": 7.5,
+          "id": 1
+        },
+        {
+          "itemName": "Carvão",
+          "quantity": 2,
+          "price": 12,
+          "id": 2
+        },
+        {
+          "itemName": "Contra-filé",
+          "quantity": 2,
+          "price": 33,
+          "id": 3
+        },
+        {
+          "itemName": "Cerveja",
+          "quantity": 10,
+          "price": 20,
+          "id": 4
+        }
+      ],
+      "location": "Laje da casa do VR",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Churrasco na laje",
+      "description": "Churras padrão de qualidade na laje do VR",
+      "guests": [
+        {
+          "name": "Anderson",
+          "id": 1
+        },
+        {
+          "name": "Johão",
+          "id": 2
+        },
+        {
+          "name": "Yorran",
+          "id": 3
+        }
+      ],
+      "itemsList": [
+        {
+          "itemName": "Coca",
+          "quantity": 2,
+          "price": 7.5,
+          "id": 1
+        },
+        {
+          "itemName": "Carvão",
+          "quantity": 2,
+          "price": 12,
+          "id": 2
+        },
+        {
+          "itemName": "Contra-filé",
+          "quantity": 2,
+          "price": 33,
+          "id": 3
+        },
+        {
+          "itemName": "Cerveja",
+          "quantity": 10,
+          "price": 20,
+          "id": 4
+        }
+      ],
+      "location": "Laje da casa do VR",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "name": "Churrasco na laje",
+      "description": "Churras padrão de qualidade na laje do VR",
+      "guests": [
+        {
+          "name": "Anderson",
+          "id": 1
+        },
+        {
+          "name": "Johão",
+          "id": 2
+        },
+        {
+          "name": "Marcelo",
+          "id": 3
+        }
+      ],
+      "itemsList": [
+        {
+          "itemName": "Coca",
+          "quantity": 2,
+          "price": 7.5,
+          "id": 1
+        },
+        {
+          "itemName": "Carvão",
+          "quantity": 2,
+          "price": 12,
+          "id": 2
+        },
+        {
+          "itemName": "Contra-filé",
+          "quantity": 2,
+          "price": 33,
+          "id": 3
+        },
+        {
+          "itemName": "Cerveja",
+          "quantity": 10,
+          "price": 20,
+          "id": 4
+        }
+      ],
+      "location": "Laje da casa do VR",
+      "userId": 5,
+      "id": 5
     }
   ]
 }
