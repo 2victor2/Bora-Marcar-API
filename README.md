@@ -271,6 +271,18 @@ Caso tudo dê certo...
 }
 ```
 
+### Deletando eventos
+
+``` DELETE /events/:id ```
+
+Utilizado para deletar um evento, sendo necessário especificar no endpoint o id do evento que será alterado e enviar o token de autenticação no header. No caso foi utilizado /events/5.
+
+Caso tudo dê certo... 
+
+*FORMATO DE RESPOSTA - STATUS 200*
+
+``` {} ```
+
 ### Listando eventos
 
 ``` GET /events ```
