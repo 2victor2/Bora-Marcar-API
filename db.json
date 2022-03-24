@@ -38,27 +38,35 @@
   ],
   "events": [
     {
-      "name": "Churrasco na laje",
-      "description": "Churras padrão de qualidade na laje do anderson",
+      "name": "Festinha na Kenzie",
+      "description": "Baguncinha na sede da Kenzie",
       "guests": [
         {
-          "name": "Johão",
+          "name": "Amanda",
           "id": 1
         },
         {
-          "name": "Marcelo",
+          "name": "Hudson",
           "id": 2
         },
         {
-          "name": "Yorran",
+          "name": "Ugo",
           "id": 3
+        },
+        {
+          "name": "Daniel",
+          "id": 4
+        },
+        {
+          "name": "Chat",
+          "id": 5
         }
       ],
       "itemsList": [
         {
-          "itemName": "Coca",
+          "itemName": "Itubaína",
           "quantity": 2,
-          "price": 7.5,
+          "price": 5,
           "id": 1
         },
         {
@@ -74,38 +82,65 @@
           "id": 3
         },
         {
-          "itemName": "Cerveja",
-          "quantity": 10,
-          "price": 20,
+          "itemName": "Heineken(12 unidades)",
+          "quantity": 3,
+          "price": 40,
           "id": 4
+        },
+        {
+          "itemName": "Brahma Duplo Malte(15 unidades)",
+          "quantity": 2,
+          "price": 34,
+          "id": 5
+        },
+        {
+          "itemName": "Picanha",
+          "quantity": 2,
+          "price": 36,
+          "id": 6
+        },
+        {
+          "itemName": "Bolo de chocolate",
+          "quantity": 1,
+          "price": 20,
+          "id": 7
         }
       ],
-      "location": "Laje da casa do Anderson",
+      "location": "Sede da Kenzie Academy Brasil",
+      "confirmed": false,
       "userId": 1,
       "id": 1
     },
     {
-      "name": "Churrasco na laje",
-      "description": "Churras padrão de qualidade na laje do VR",
+      "name": "Festinha na Kenzie",
+      "description": "Baguncinha na sede da Kenzie",
       "guests": [
         {
-          "name": "Johão",
+          "name": "Amanda",
           "id": 1
         },
         {
-          "name": "Marcelo",
+          "name": "Hudson",
           "id": 2
         },
         {
-          "name": "Yorran",
+          "name": "Ugo",
           "id": 3
+        },
+        {
+          "name": "Daniel",
+          "id": 4
+        },
+        {
+          "name": "Chat",
+          "id": 5
         }
       ],
       "itemsList": [
         {
-          "itemName": "Coca",
+          "itemName": "Itubaína",
           "quantity": 2,
-          "price": 7.5,
+          "price": 5,
           "id": 1
         },
         {
@@ -121,38 +156,65 @@
           "id": 3
         },
         {
-          "itemName": "Cerveja",
-          "quantity": 10,
-          "price": 20,
+          "itemName": "Heineken(12 unidades)",
+          "quantity": 3,
+          "price": 40,
           "id": 4
+        },
+        {
+          "itemName": "Brahma Duplo Malte(15 unidades)",
+          "quantity": 2,
+          "price": 34,
+          "id": 5
+        },
+        {
+          "itemName": "Picanha",
+          "quantity": 2,
+          "price": 36,
+          "id": 6
+        },
+        {
+          "itemName": "Bolo de chocolate",
+          "quantity": 1,
+          "price": 20,
+          "id": 7
         }
       ],
-      "location": "Laje da casa do VR",
+      "location": "Sede da Kenzie Academy Brasil",
+      "confirmed": false,
       "userId": 2,
       "id": 2
     },
     {
-      "name": "Churrasco na laje",
-      "description": "Churras padrão de qualidade na laje do VR",
+      "name": "Festinha na Kenzie",
+      "description": "Baguncinha na sede da Kenzie",
       "guests": [
         {
-          "name": "Anderson",
+          "name": "Amanda",
           "id": 1
         },
         {
-          "name": "Marcelo",
+          "name": "Hudson",
           "id": 2
         },
         {
-          "name": "Yorran",
+          "name": "Ugo",
           "id": 3
+        },
+        {
+          "name": "Daniel",
+          "id": 4
+        },
+        {
+          "name": "Chat",
+          "id": 5
         }
       ],
       "itemsList": [
         {
-          "itemName": "Coca",
+          "itemName": "Itubaína",
           "quantity": 2,
-          "price": 7.5,
+          "price": 5,
           "id": 1
         },
         {
@@ -168,38 +230,65 @@
           "id": 3
         },
         {
-          "itemName": "Cerveja",
-          "quantity": 10,
-          "price": 20,
+          "itemName": "Heineken(12 unidades)",
+          "quantity": 3,
+          "price": 40,
           "id": 4
+        },
+        {
+          "itemName": "Brahma Duplo Malte(15 unidades)",
+          "quantity": 2,
+          "price": 34,
+          "id": 5
+        },
+        {
+          "itemName": "Picanha",
+          "quantity": 2,
+          "price": 36,
+          "id": 6
+        },
+        {
+          "itemName": "Bolo de chocolate",
+          "quantity": 1,
+          "price": 20,
+          "id": 7
         }
       ],
-      "location": "Laje da casa do VR",
+      "location": "Sede da Kenzie Academy Brasil",
+      "confirmed": false,
       "userId": 3,
       "id": 3
     },
     {
-      "name": "Churrasco na laje",
-      "description": "Churras padrão de qualidade na laje do VR",
+      "name": "Festinha na Kenzie",
+      "description": "Baguncinha na sede da Kenzie",
       "guests": [
         {
-          "name": "Anderson",
+          "name": "Amanda",
           "id": 1
         },
         {
-          "name": "Johão",
+          "name": "Hudson",
           "id": 2
         },
         {
-          "name": "Yorran",
+          "name": "Ugo",
           "id": 3
+        },
+        {
+          "name": "Daniel",
+          "id": 4
+        },
+        {
+          "name": "Chat",
+          "id": 5
         }
       ],
       "itemsList": [
         {
-          "itemName": "Coca",
+          "itemName": "Itubaína",
           "quantity": 2,
-          "price": 7.5,
+          "price": 5,
           "id": 1
         },
         {
@@ -215,38 +304,65 @@
           "id": 3
         },
         {
-          "itemName": "Cerveja",
-          "quantity": 10,
-          "price": 20,
+          "itemName": "Heineken(12 unidades)",
+          "quantity": 3,
+          "price": 40,
           "id": 4
+        },
+        {
+          "itemName": "Brahma Duplo Malte(15 unidades)",
+          "quantity": 2,
+          "price": 34,
+          "id": 5
+        },
+        {
+          "itemName": "Picanha",
+          "quantity": 2,
+          "price": 36,
+          "id": 6
+        },
+        {
+          "itemName": "Bolo de chocolate",
+          "quantity": 1,
+          "price": 20,
+          "id": 7
         }
       ],
-      "location": "Laje da casa do VR",
+      "location": "Sede da Kenzie Academy Brasil",
+      "confirmed": false,
       "userId": 4,
       "id": 4
     },
     {
-      "name": "Churrasco na laje",
-      "description": "Churras padrão de qualidade na laje do VR",
+      "name": "Festinha na Kenzie",
+      "description": "Baguncinha na sede da Kenzie",
       "guests": [
         {
-          "name": "Anderson",
+          "name": "Amanda",
           "id": 1
         },
         {
-          "name": "Johão",
+          "name": "Hudson",
           "id": 2
         },
         {
-          "name": "Marcelo",
+          "name": "Ugo",
           "id": 3
+        },
+        {
+          "name": "Daniel",
+          "id": 4
+        },
+        {
+          "name": "Chat",
+          "id": 5
         }
       ],
       "itemsList": [
         {
-          "itemName": "Coca",
+          "itemName": "Itubaína",
           "quantity": 2,
-          "price": 7.5,
+          "price": 5,
           "id": 1
         },
         {
@@ -262,16 +378,34 @@
           "id": 3
         },
         {
-          "itemName": "Cerveja",
-          "quantity": 10,
-          "price": 20,
+          "itemName": "Heineken(12 unidades)",
+          "quantity": 3,
+          "price": 40,
           "id": 4
+        },
+        {
+          "itemName": "Brahma Duplo Malte(15 unidades)",
+          "quantity": 2,
+          "price": 34,
+          "id": 5
+        },
+        {
+          "itemName": "Picanha",
+          "quantity": 2,
+          "price": 36,
+          "id": 6
+        },
+        {
+          "itemName": "Bolo de chocolate",
+          "quantity": 1,
+          "price": 20,
+          "id": 7
         }
       ],
-      "location": "Laje da casa do VR",
+      "location": "Sede da Kenzie Academy Brasil",
+      "confirmed": false,
       "userId": 5,
       "id": 5
     }
   ]
 }
-
